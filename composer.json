@@ -1,0 +1,16 @@
+{
+    "name": "mcdc/mvc-core",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mcdc\\MvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joseph Sigawa",
+            "email": "sigawajoseph1@gmail.com"
+        }
+    ],
+    "require": {}
+}
